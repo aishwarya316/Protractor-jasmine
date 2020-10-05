@@ -1,0 +1,19 @@
+module.exports=
+{
+dataset:
+{
+Dataset1:
+{
+    name:'aish',
+    email:'aish@gmail.com',
+    password:'aish',
+
+},
+Dataset2:
+{
+   name:'sam',
+   email:'sam@gmail.com',
+   password:'sam',
+}
+}
+}
